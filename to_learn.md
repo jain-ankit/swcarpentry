@@ -11,3 +11,6 @@ Things we are learning at SWC
 ** Add files to git repos.
 ** Commit messages.
 ** Atomic commits.
+Pull
+Fetch
+Branch
